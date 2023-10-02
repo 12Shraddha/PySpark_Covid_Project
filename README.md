@@ -1,5 +1,6 @@
 # PySpark_Covid_Project
-implemented concepts of PYSPARK for the following exercises using COVID Dataset from Kaggle.
+
+Implemented concepts of PYSPARK for the following exercises using COVID Dataset from Kaggle.
 
 Exercise
 
